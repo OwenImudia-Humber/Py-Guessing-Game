@@ -43,7 +43,7 @@ Enter your guess (1-100): 62
 
 ```
 number-guessing-game/
-│-- guessing_game.py
+│-- test.py
 │-- README.md
 ```
 
