@@ -42,8 +42,8 @@ Enter your guess (1-100): 62
 ## 📂 Project Structure
 
 ```
-number-guessing-game/
-│-- test.py
+Python Projects/
+│-- guessing_game.py
 │-- README.md
 ```
 
